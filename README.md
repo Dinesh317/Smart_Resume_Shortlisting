@@ -1,5 +1,3 @@
-# Smart Resume Shortlisting
-Smart Resume Shortlisting is an AI-driven system that parses resumes and job descriptions, matches candidates based on skills and experience, and ranks them for shortlisting—helping recruiters find top talent faster, with greater accuracy and less manual effort.
 # 🧠 Smart Resume Shortlisting
 
 **Smart Resume Shortlisting** is an AI-powered system that intelligently parses resumes and job descriptions, matches candidates based on role fit, and ranks them for shortlisting — streamlining the hiring process for recruiters and HR teams.
